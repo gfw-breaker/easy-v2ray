@@ -1,4 +1,4 @@
-### V2Ray(Vmess + TLS + WebSocket) 服务器简易搭建教程（不需要申请域名及证书）
+### V2Ray (Vmess + TLS + WebSocket) 服务器简易搭建教程（不需要申请域名及证书）
 
 ---
 
