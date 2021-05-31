@@ -63,3 +63,9 @@ Windows 平台推荐使用 V2rayN，配置如下：
 iPhone 推荐使用 shadowrocket,配置如下：
 
 <img src="http://gfw-breaker.win/videos/imgs/easy-v2ray/rocket1.PNG" width="300px"/> <img src="http://gfw-breaker.win/videos/imgs/easy-v2ray/rocket2.PNG" width="300px"/>
+
+---
+
+#### [免费V2RAY账号（友情提示：已屏蔽部分色情网站）](https://github.com/gfw-breaker/ssr-accounts)
+
+
