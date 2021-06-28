@@ -68,7 +68,7 @@ iPhone 推荐使用 shadowrocket,配置如下：
 
 #### 免费V2RAY账号（友情提示：已屏蔽部分色情网站）, 用Ray客户端扫描下列二维码（务必将allowInsecure选项改为true）即可使用：
 
-<img src="http://gfw-breaker.win/videos/imgs/v2ray.png" width="400px"/>
+<img src="http://gfw-breaker.win/videos/imgs/v2ray-2.png" width="400px"/>
 
 ---
 
